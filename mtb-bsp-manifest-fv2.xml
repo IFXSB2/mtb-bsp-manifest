@@ -2,7 +2,7 @@
   <board>
     <id>CY8CKIT-041-41XX</id>
     <category>PSoC 4 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-041-41XX</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_CY8CKIT-041-41XX</board_uri>
     <chips>
       <mcu>CY8C4146AZI-S433</mcu>
     </chips>
@@ -41,7 +41,7 @@
   <board>
     <id>CY8CKIT-145-40XX</id>
     <category>PSoC 4 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-145-40XX</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_CY8CKIT-145-40XX</board_uri>
     <chips>
       <mcu>CY8C4045AZI-S413</mcu>
     </chips>
@@ -74,7 +74,7 @@
   <board>
     <id>CY8CKIT-149</id>
     <category>PSoC 4 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-149</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_CY8CKIT-149</board_uri>
     <chips>
       <mcu>CY8C4147AZI-S475</mcu>
     </chips>
@@ -107,7 +107,7 @@
   <board>
     <id>PSOC4-GENERIC</id>
     <category>PSoC 4 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_PSOC4-GENERIC</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_PSOC4-GENERIC</board_uri>
     <chips>
       <mcu>CY8C4548AZI-S485</mcu>
     </chips>
@@ -124,7 +124,7 @@
         <li>NA</li>
         </ul>
     ]]></description>
-    <documentation_url>https://github.com/cypresssemiconductorco/TARGET_PSOC4-GENERIC</documentation_url>
+    <documentation_url>https://github.com/CYSB2/TARGET_PSOC4-GENERIC</documentation_url>
     <versions>
       <version tools_min_version="2.2.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen2">
         <num>Latest 1.X release</num>
@@ -139,7 +139,7 @@
   <board>
     <id>CY8CKIT-062-BLE</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-062-BLE</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_CY8CKIT-062-BLE</board_uri>
     <chips>
       <mcu>CY8C6347BZI-BLD53</mcu>
     </chips>
@@ -175,7 +175,7 @@
   <board>
     <id>CY8CKIT-062S2-43012</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-062S2-43012</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_CY8CKIT-062S2-43012</board_uri>
     <chips>
       <mcu>CY8C624ABZI-S2D44</mcu>
       <radio>CYW43012C0WKWBG</radio>
@@ -216,7 +216,7 @@
   <board>
     <id>CY8CKIT-062-WIFI-BT</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-062-WIFI-BT</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_CY8CKIT-062-WIFI-BT</board_uri>
     <chips>
       <mcu>CY8C6247BZI-D54</mcu>
       <radio>CYW4343WKUBG</radio>
@@ -255,7 +255,7 @@
   <board>
     <id>CY8CKIT-064B0S2-4343W</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-064B0S2-4343W</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_CY8CKIT-064B0S2-4343W</board_uri>
     <chips>
       <mcu>CYB0644ABZI-S2D44</mcu>
       <radio>CYW4343WKUBG</radio>
@@ -297,7 +297,7 @@
   <board>
     <id>CY8CPROTO-062-4343W</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_CY8CPROTO-062-4343W</board_uri>
     <chips>
       <mcu>CY8C624ABZI-S2D44</mcu>
       <radio>CYW4343WKUBG</radio>
@@ -336,7 +336,7 @@
   <board>
     <id>CY8CPROTO-062S3-4343W</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062S3-4343W</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_CY8CPROTO-062S3-4343W</board_uri>
     <chips>
       <mcu>CY8C6245LQI-S3D72</mcu>
       <radio>CYW4343WKUBG</radio>
@@ -375,7 +375,7 @@
   <board>
     <id>CY8CPROTO-063-BLE</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-063-BLE</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_CY8CPROTO-063-BLE</board_uri>
     <chips>
       <mcu>CYBLE-416045-02</mcu>
     </chips>
@@ -412,7 +412,7 @@
   <board>
     <id>CY8CPROTO-064B0S3</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-064B0S3</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_CY8CPROTO-064B0S3</board_uri>
     <chips>
       <mcu>CYB06445LQI-S3D42</mcu>
     </chips>
@@ -447,7 +447,7 @@
   <board>
     <id>CYW9P62S1-43012EVB-01</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW9P62S1-43012EVB-01</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_CYW9P62S1-43012EVB-01</board_uri>
     <chips>
       <mcu>CY8C6247FDI-D52</mcu>
       <radio>CYW43012TC0EKUBG</radio>
@@ -488,7 +488,7 @@
   <board>
     <id>CYW9P62S1-43438EVB-01</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW9P62S1-43438EVB-01</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_CYW9P62S1-43438EVB-01</board_uri>
     <chips>
       <mcu>CY8C6247BZI-D54</mcu>
       <radio>CYW43438KUBG</radio>
@@ -529,7 +529,7 @@
   <board>
     <id>PSOC6-GENERIC</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_PSOC6-GENERIC</board_uri>
+    <board_uri>https://github.com/CYSB2/TARGET_PSOC6-GENERIC</board_uri>
     <chips>
       <mcu>CY8C6347BZI-BLD53</mcu>
     </chips>
@@ -548,7 +548,7 @@
         <li>NA</li>
         </ul>
     ]]></description>
-    <documentation_url>https://github.com/cypresssemiconductorco/TARGET_PSOC6-GENERIC</documentation_url>
+    <documentation_url>https://github.com/CYSB2/TARGET_PSOC6-GENERIC</documentation_url>
     <versions>
       <version tools_min_version="2.2.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen2">
         <num>Latest 2.X release</num>
